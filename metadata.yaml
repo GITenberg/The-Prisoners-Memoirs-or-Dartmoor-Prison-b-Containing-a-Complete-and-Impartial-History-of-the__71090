@@ -1,0 +1,30 @@
+_repo: The-Prisoners-Memoirs-or-Dartmoor-Prison-b-Containing-a-Complete-and-Impartial-History-of-the__71090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: England, A Prisoner in
+    gutenberg_agent_id: '56070'
+    url: http://www.gutenberg.org/2009/agents/56070
+description: ''
+gutenberg_issued: '2023-07-02'
+identifiers:
+  gutenberg: '71090'
+language: en
+pgterms:marc904: https://archive.org/details/prisonersmem00andrews
+pgterms:marc905: 20190117065453aprisoneri
+pgterms:marc906: '1852'
+pgterms:marc907: US
+production_note: Richard Hulse, Carla Foust and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bUnidentified, $c1852.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Prisoners'' Memoirs, or Dartmoor Prison : $b Containing a Complete and
+  Impartial History of the Entire Captivity of the Americans in England, from the
+  Commencement of the Last War between the United States and Great Britain, until
+  All Prisoners Were Released by the Treaty of Ghent.'
+url: http://www.gutenberg.org/ebooks/71090
