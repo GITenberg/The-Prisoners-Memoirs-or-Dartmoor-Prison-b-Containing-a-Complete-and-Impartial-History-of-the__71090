@@ -1,11 +1,16 @@
 _repo: The-Prisoners-Memoirs-or-Dartmoor-Prison-b-Containing-a-Complete-and-Impartial-History-of-the__71090
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71090-h/images/cover.jpg
 creator:
   author:
     agent_name: England, A Prisoner in
     gutenberg_agent_id: '56070'
     url: http://www.gutenberg.org/2009/agents/56070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71090#The-Prisoners-Memoirs-or-Dartmoor-Prison-b-Containing-a-Complete-and-Impartial-History-of-the_
 gutenberg_issued: '2023-07-02'
 identifiers:
   gutenberg: '71090'
